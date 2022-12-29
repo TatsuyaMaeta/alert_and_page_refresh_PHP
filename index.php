@@ -9,8 +9,7 @@
 </head>
 
 <body>
-    <h1>hoaa</h1>
-    <h2>お手本</h2>
+    <h2>JSalert_and_page_refresh</h2>
 
     <form action="insert.php" method="post">
         <label for="name">名前：
@@ -19,7 +18,8 @@
         <br>
         <label for="dat">
             日付：<input type="date" name="date" id="dat">
-        </label> <br>
+        </label>
+        <br>
         <label for="tel">
             電話：<input type="tel" name="tel" id="tel">
         </label>
